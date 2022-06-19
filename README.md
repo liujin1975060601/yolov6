@@ -17,11 +17,11 @@ yolov6非常强大，是一个C++引擎，不需要安装python插件即可闪�
 
 7.支持probs,dmp,Homtrans,globe,bF,autolb等新技术，进一步提高识别准确率和实用性
 
-技术指标
-水平框coco2017数据集 5000val
-608*608 iou0.5 
-         map         F1
-yolov5  68.71%
-yolov6  70.24%
+技术指标\
+水平框coco2017数据集 5000val\
+608*608 iou0.5\
+         map         F1\
+yolov5  68.71%\
+yolov6  70.24%\
 
 有兴趣请联系邮箱41038331@qq.com
