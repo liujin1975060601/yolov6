@@ -7,7 +7,7 @@ yolov6非常强大，是一个C++引擎，不需要安装python插件即可闪�
 
 1.OBB旋转目标框目标检测
 
-2.增加了注意力机制层
+2.增加了2个注意力机制层attention-cam&sam
 
 3.6dpose detection
 
