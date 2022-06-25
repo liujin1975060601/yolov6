@@ -7,13 +7,15 @@ yolov6非常强大，是一个C++引擎，不需要安装python插件即可闪�
 
 1.OBB旋转目标框目标检测
 
-2.6dpose detection
+2.增加了注意力机制层
 
-3.语义分割Segmention
+3.6dpose detection
 
-4.非正方形输入网络
+4.语义分割Segmention
 
-5.以上所有功能支持我们自研的嵌入式计算板
+5.非正方形输入网络
+
+6.以上所有功能支持我们自研的嵌入式计算板
 
 7.支持probs,dmp,Homtrans,globe,bF,autolb等新技术，进一步提高识别准确率和实用性
 
